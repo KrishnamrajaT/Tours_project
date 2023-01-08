@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+}
+
+.info {
+  width: 25%;
+  margin: auto;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.price {
+  color: #d4856e;
+  float: right;
+}
+.read {
+  color: #036ab1;
+  margin-top: -37px;
+  float: right;
+}
+.select {
+  float: right;
+  width: 50%;
+}
